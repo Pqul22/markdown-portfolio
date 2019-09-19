@@ -1,1 +1,1 @@
-www.google.com/search/
+[My Website] www.google.com/search/
